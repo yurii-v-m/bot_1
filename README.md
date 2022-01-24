@@ -1,1 +1,1 @@
-# My first bot
+# My first bot (alfa version)
